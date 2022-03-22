@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "pranjal",
+      "email": "pranjal@gmail.com",
+      "mobile": "8319394968",
+      "address": "Sector-5",
+      "services": "Chai"
+    },
+    {
+      "id": 2,
+      "name": "testewew",
+      "email": "test@gmail.com",
+      "mobile": "2324567854",
+      "address": "Sector-4",
+      "services": "IceCream"
+    }
+  ],
+  "signup": [
+    {
+      "name": "pranjal",
+      "email": "pranjal@gmail.com",
+      "mobile": "3478438",
+      "password": "ewskdds",
+      "id": 2
+    },
+    {
+      "name": "alaskSs Singh",
+      "email": "alaskSsSingh@gmail.com",
+      "mobile": "8387213872",
+      "password": "12345678",
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
